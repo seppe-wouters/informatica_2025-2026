@@ -17,7 +17,7 @@ namespace DierenPark
 
         public void Voeder()
         {
-            Console.WriteLine("Het dier is gevoederd");
+            Console.WriteLine($"Het {Naam} is gevoederd");
         }
     }
 }
