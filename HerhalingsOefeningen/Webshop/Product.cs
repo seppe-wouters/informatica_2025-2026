@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace Webshop
 {
-    internal class Product
+    internal class Product 
     {
         public string Naam { get; set; }
-        public int Prijs { get; set; }
+        public double Prijs { get; set; }
         public string Beschrijving { get; set; }
 
-        public Product( string naamin, int prijsin, string beschrijvingin)
+        public Product( string naamin, double prijsin, string beschrijvingin)
         {
             Naam = naamin;
             Prijs = prijsin;

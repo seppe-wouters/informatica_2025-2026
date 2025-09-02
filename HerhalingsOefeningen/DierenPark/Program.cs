@@ -23,11 +23,12 @@ namespace DierenPark
             foreach (var dier in Dieren)
             {
                 dier.Tooninfo();
+
+                if (dier is IVoeder ivoeder)
+                {
+                    ivoeder.Voeder();
+                }
             }
-
-            olifant.Voeder();
-            papegaai.Voeder();
-
         }
     }
 }
