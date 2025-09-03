@@ -1,0 +1,8 @@
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\bin\Debug\Schoolbib.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\bin\Debug\Schoolbib.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\bin\Debug\Schoolbib.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.exe.config

@@ -5,3 +5,4 @@ C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\He
 C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\bin\Debug\Webshop.pdb
 C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.exe
 C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.exe.config

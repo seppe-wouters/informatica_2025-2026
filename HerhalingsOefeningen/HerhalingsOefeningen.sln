@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DierenPark", "DierenPark\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop", "Webshop\Webshop.csproj", "{3FE03973-B673-44F0-8D13-A2C76603B058}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamePersonage", "GamePersonage\GamePersonage.csproj", "{824F7441-DFB6-4547-B029-951B9C2A9A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schoolbib", "Schoolbib\Schoolbib.csproj", "{545C65D1-007B-4EAE-95C6-8C057BAB84CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3FE03973-B673-44F0-8D13-A2C76603B058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FE03973-B673-44F0-8D13-A2C76603B058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FE03973-B673-44F0-8D13-A2C76603B058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824F7441-DFB6-4547-B029-951B9C2A9A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824F7441-DFB6-4547-B029-951B9C2A9A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824F7441-DFB6-4547-B029-951B9C2A9A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824F7441-DFB6-4547-B029-951B9C2A9A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545C65D1-007B-4EAE-95C6-8C057BAB84CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545C65D1-007B-4EAE-95C6-8C057BAB84CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545C65D1-007B-4EAE-95C6-8C057BAB84CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545C65D1-007B-4EAE-95C6-8C057BAB84CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
