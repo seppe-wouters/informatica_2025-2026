@@ -17,7 +17,7 @@ namespace LeerlingenSecretariaat
         public VrijeStudieForm()
         {
             InitializeComponent();
-            _vrijeStudie = new VrijeStudie("Poly C", 40);
+            _vrijeStudie = new VrijeStudie("Poly C", 40, 20);
 
             UpdateForm();
         }
@@ -27,22 +27,25 @@ namespace LeerlingenSecretariaat
             lokaalTextBox.Text = _vrijeStudie.Lokaal;
             capaciteitTextBox.Text = _vrijeStudie.Capaciteit.ToString();
             bezetTextBox.Text = _vrijeStudie.AantalBezettePlaatsen.ToString();
+            txtAantalLaptops.Text = _vrijeStudie.AantalLaptops.ToString();
+            txtAantalgereserveerd.Text = _vrijeStudie.AantalLaptopsGereserveerd.ToString();
         }
 
         private void inschrijvenButton_Click(object sender, EventArgs e)
         {
             try
             {
-                _vrijeStudie.Inschrijven(Convert.ToInt32(aantalInschrijvenTextBox.Text));
+                _vrijeStudie.Inschrijven(Convert.ToInt32(aantalInschrijvenTextBox.Text), Convert.ToInt32(txtLaptopsTeReserveren.Text));
                 boodschapTextBox.BackColor = Color.White;
                 boodschapTextBox.Text = "Succesvol ingeschreven";
                 aantalInschrijvenTextBox.Text = "";
+                txtLaptopsTeReserveren.Text = "";
                 UpdateForm();
             }
             catch (Exception)
             {
                 boodschapTextBox.BackColor = Color.Red;
-                boodschapTextBox.Text = "Geen plaats meer";
+                boodschapTextBox.Text = "Geen plaats meer of te weinig laptops";
                 UpdateForm();
             }
         }

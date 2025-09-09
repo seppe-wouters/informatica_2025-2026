@@ -11,22 +11,26 @@ namespace LeerlingenSecretariaat
         public string Lokaal { get; }
         public int Capaciteit { get; }
         public int AantalBezettePlaatsen { get; set; } = 0;
+        public int AantalLaptops { get; }
+        public int AantalLaptopsGereserveerd { get; set; } = 0;
 
-        public VrijeStudie(string lokaal, int capaciteit)
+        public VrijeStudie(string lokaal, int capaciteit, int aantalLaptops)
         {
             Lokaal = lokaal;
             Capaciteit = capaciteit;
+            AantalLaptops = aantalLaptops;
         }
 
-        public void Inschrijven(int _aantal)
+        public void Inschrijven(int _aantalMensen, int _aantalLaptops)
         {
-            if (_aantal+AantalBezettePlaatsen > Capaciteit)
+            if (_aantalMensen+AantalBezettePlaatsen > Capaciteit || _aantalLaptops+AantalLaptopsGereserveerd > AantalLaptops)
             {
-                throw new Exception("Geen plaats meer");
+                throw new Exception("Geen plaats meer of er zijn niet genoeg laptops");
             }
             else
             {
-                AantalBezettePlaatsen += _aantal;
+                AantalBezettePlaatsen += _aantalMensen;
+                AantalLaptopsGereserveerd += _aantalLaptops;
             }
         }
     }

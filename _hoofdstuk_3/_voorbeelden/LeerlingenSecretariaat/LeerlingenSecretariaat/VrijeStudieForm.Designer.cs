@@ -39,6 +39,12 @@
             this.inschrijvenButton = new System.Windows.Forms.Button();
             this.boodschapTextBox = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.txtAantalLaptops = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtAantalgereserveerd = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.txtLaptopsTeReserveren = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -129,7 +135,7 @@
             this.inschrijvenButton.Location = new System.Drawing.Point(22, 48);
             this.inschrijvenButton.Margin = new System.Windows.Forms.Padding(4);
             this.inschrijvenButton.Name = "inschrijvenButton";
-            this.inschrijvenButton.Size = new System.Drawing.Size(267, 28);
+            this.inschrijvenButton.Size = new System.Drawing.Size(512, 28);
             this.inschrijvenButton.TabIndex = 8;
             this.inschrijvenButton.Text = "Inschrijven";
             this.inschrijvenButton.UseVisualStyleBackColor = true;
@@ -142,13 +148,15 @@
             this.boodschapTextBox.Name = "boodschapTextBox";
             this.boodschapTextBox.ReadOnly = true;
             this.boodschapTextBox.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.boodschapTextBox.Size = new System.Drawing.Size(267, 22);
+            this.boodschapTextBox.Size = new System.Drawing.Size(512, 22);
             this.boodschapTextBox.TabIndex = 9;
             this.boodschapTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.DarkGray;
+            this.panel1.Controls.Add(this.label7);
+            this.panel1.Controls.Add(this.txtLaptopsTeReserveren);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.boodschapTextBox);
             this.panel1.Controls.Add(this.aantalInschrijvenTextBox);
@@ -156,14 +164,79 @@
             this.panel1.Location = new System.Drawing.Point(25, 127);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(314, 137);
+            this.panel1.Size = new System.Drawing.Size(552, 137);
             this.panel1.TabIndex = 10;
+            // 
+            // txtAantalLaptops
+            // 
+            this.txtAantalLaptops.Location = new System.Drawing.Point(509, 34);
+            this.txtAantalLaptops.Margin = new System.Windows.Forms.Padding(4);
+            this.txtAantalLaptops.Name = "txtAantalLaptops";
+            this.txtAantalLaptops.ReadOnly = true;
+            this.txtAantalLaptops.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.txtAantalLaptops.Size = new System.Drawing.Size(50, 22);
+            this.txtAantalLaptops.TabIndex = 12;
+            this.txtAantalLaptops.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(353, 37);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(105, 16);
+            this.label5.TabIndex = 11;
+            this.label5.Text = "Aantal Lapotops";
+            // 
+            // txtAantalgereserveerd
+            // 
+            this.txtAantalgereserveerd.Location = new System.Drawing.Point(509, 72);
+            this.txtAantalgereserveerd.Margin = new System.Windows.Forms.Padding(4);
+            this.txtAantalgereserveerd.Name = "txtAantalgereserveerd";
+            this.txtAantalgereserveerd.ReadOnly = true;
+            this.txtAantalgereserveerd.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.txtAantalgereserveerd.Size = new System.Drawing.Size(50, 22);
+            this.txtAantalgereserveerd.TabIndex = 14;
+            this.txtAantalgereserveerd.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(353, 75);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(143, 16);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Laptops Gereserveerd";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(328, 19);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(134, 16);
+            this.label7.TabIndex = 10;
+            this.label7.Text = "laptops te reserveren";
+            // 
+            // txtLaptopsTeReserveren
+            // 
+            this.txtLaptopsTeReserveren.Location = new System.Drawing.Point(484, 16);
+            this.txtLaptopsTeReserveren.Margin = new System.Windows.Forms.Padding(4);
+            this.txtLaptopsTeReserveren.Name = "txtLaptopsTeReserveren";
+            this.txtLaptopsTeReserveren.Size = new System.Drawing.Size(50, 22);
+            this.txtLaptopsTeReserveren.TabIndex = 11;
+            this.txtLaptopsTeReserveren.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // VrijeStudieForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(361, 282);
+            this.ClientSize = new System.Drawing.Size(590, 282);
+            this.Controls.Add(this.txtAantalgereserveerd);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtAantalLaptops);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.bezetTextBox);
             this.Controls.Add(this.capaciteitTextBox);
@@ -195,5 +268,11 @@
         private System.Windows.Forms.Button inschrijvenButton;
         private System.Windows.Forms.TextBox boodschapTextBox;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.TextBox txtAantalLaptops;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtAantalgereserveerd;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox txtLaptopsTeReserveren;
     }
 }
