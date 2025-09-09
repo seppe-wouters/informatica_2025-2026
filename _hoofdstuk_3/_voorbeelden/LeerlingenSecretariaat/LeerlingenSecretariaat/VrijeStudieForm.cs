@@ -34,11 +34,14 @@ namespace LeerlingenSecretariaat
             try
             {
                 _vrijeStudie.Inschrijven(Convert.ToInt32(aantalInschrijvenTextBox.Text));
+                boodschapTextBox.BackColor = Color.White;
                 boodschapTextBox.Text = "Succesvol ingeschreven";
+                aantalInschrijvenTextBox.Text = "";
                 UpdateForm();
             }
             catch (Exception)
             {
+                boodschapTextBox.BackColor = Color.Red;
                 boodschapTextBox.Text = "Geen plaats meer";
                 UpdateForm();
             }
