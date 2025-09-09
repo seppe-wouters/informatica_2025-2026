@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\bin\Debug\Business.dll
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\bin\Debug\Business.pdb
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\obj\Debug\Business.dll
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Business\obj\Debug\Business.pdb

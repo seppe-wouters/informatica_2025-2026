@@ -1,0 +1,9 @@
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\bin\Debug\Wekker.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_1\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.pdb

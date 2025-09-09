@@ -1,0 +1,9 @@
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\bin\Debug\Wekker.exe.config
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\bin\Debug\Wekker.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\bin\Debug\Wekker.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\obj\Debug\Wekker.csprojResolveAssemblyReference.cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\obj\Debug\Wekker.Properties.Resources.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\obj\Debug\Wekker.WekkerForm.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\obj\Debug\Wekker.csproj.GenerateResource.Cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\obj\Debug\Wekker.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_eindsituatie\Wekker\Wekker\obj\Debug\Wekker.pdb

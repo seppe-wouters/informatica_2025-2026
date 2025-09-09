@@ -1,0 +1,20 @@
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.FormStraat.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.Cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_voorbeelden\_beginsituatie\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.StraatForm.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.pdb

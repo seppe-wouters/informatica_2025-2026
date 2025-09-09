@@ -1,0 +1,20 @@
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\obj\Debug\OldSchool.csprojResolveAssemblyReference.cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\obj\Debug\OldSchool.Properties.Resources.resources
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\obj\Debug\OldSchool.csproj.GenerateResource.Cache
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\bin\Debug\OldSchool.exe.config
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\bin\Debug\OldSchool.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\bin\Debug\OldSchool.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\obj\Debug\OldSchool.exe
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\obj\Debug\OldSchool.pdb
+D:\2017_2018\Drielagenmodel\_hoofdstuk_3\_voorbeelden\_beginsituatie\OldSchool\OldSchool\obj\Debug\OldSchool.KlasForm.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\bin\Debug\OldSchool.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\bin\Debug\OldSchool.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\bin\Debug\OldSchool.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.KlasForm.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_voorbeelden\OldSchool\OldSchool\obj\Debug\OldSchool.pdb

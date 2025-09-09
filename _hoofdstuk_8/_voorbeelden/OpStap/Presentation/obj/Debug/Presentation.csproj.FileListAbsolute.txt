@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Presentation.exe.config
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Presentation.exe
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Presentation.pdb
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Business.dll
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\bin\Debug\Business.pdb
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelrouteInfoForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelroutesFilterForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelroutesForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.WandelroutesWelkomForm.resources
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.exe
+c:\users\user\documents\visual studio 2017\Projects\OpStap\Presentation\obj\Debug\Presentation.pdb
