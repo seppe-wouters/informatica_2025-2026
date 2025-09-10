@@ -15,11 +15,11 @@ namespace Showroom
 
         public PartnerTepee()
         {
-            _autoradio = false;
-            _airco = false;
-            _klapdeurenAchteraan = false;
-            _schuifdeurLinks = false;
-            _cruiseControl = false;
+            _autoradio = true;
+            _airco = true;
+            _klapdeurenAchteraan = true;
+            _schuifdeurLinks = true;
+            _cruiseControl = true;
         }
 
         public bool Autoradio

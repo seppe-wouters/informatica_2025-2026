@@ -52,6 +52,8 @@
             // autoradioCheckBox
             // 
             this.autoradioCheckBox.AutoSize = true;
+            this.autoradioCheckBox.Checked = true;
+            this.autoradioCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
             this.autoradioCheckBox.Location = new System.Drawing.Point(94, 64);
             this.autoradioCheckBox.Name = "autoradioCheckBox";
             this.autoradioCheckBox.Size = new System.Drawing.Size(206, 17);
@@ -63,6 +65,8 @@
             // aircoCheckBox
             // 
             this.aircoCheckBox.AutoSize = true;
+            this.aircoCheckBox.Checked = true;
+            this.aircoCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
             this.aircoCheckBox.Location = new System.Drawing.Point(94, 121);
             this.aircoCheckBox.Name = "aircoCheckBox";
             this.aircoCheckBox.Size = new System.Drawing.Size(95, 17);
@@ -74,6 +78,8 @@
             // klapdeurenCheckBox
             // 
             this.klapdeurenCheckBox.AutoSize = true;
+            this.klapdeurenCheckBox.Checked = true;
+            this.klapdeurenCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
             this.klapdeurenCheckBox.Location = new System.Drawing.Point(94, 173);
             this.klapdeurenCheckBox.Name = "klapdeurenCheckBox";
             this.klapdeurenCheckBox.Size = new System.Drawing.Size(168, 17);
@@ -85,6 +91,8 @@
             // schuifdeurCheckBox
             // 
             this.schuifdeurCheckBox.AutoSize = true;
+            this.schuifdeurCheckBox.Checked = true;
+            this.schuifdeurCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
             this.schuifdeurCheckBox.Location = new System.Drawing.Point(94, 230);
             this.schuifdeurCheckBox.Name = "schuifdeurCheckBox";
             this.schuifdeurCheckBox.Size = new System.Drawing.Size(126, 17);
@@ -96,6 +104,8 @@
             // cruiseControlCheckBox
             // 
             this.cruiseControlCheckBox.AutoSize = true;
+            this.cruiseControlCheckBox.Checked = true;
+            this.cruiseControlCheckBox.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cruiseControlCheckBox.Location = new System.Drawing.Point(94, 283);
             this.cruiseControlCheckBox.Name = "cruiseControlCheckBox";
             this.cruiseControlCheckBox.Size = new System.Drawing.Size(199, 17);

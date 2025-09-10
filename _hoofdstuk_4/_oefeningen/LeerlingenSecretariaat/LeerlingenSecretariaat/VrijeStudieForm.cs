@@ -24,13 +24,14 @@ namespace LeerlingenSecretariaat
             // nodige informatie aan opvragen_vrijeStudie en weergeven in tekstvakken
             lokaalTextBox.Text = _vrijeStudie.Lokaal;
             capaciteitTextBox.Text = _vrijeStudie.Capaciteit.ToString();
+            AantalInschrijven.Maximum = _vrijeStudie.Capaciteit;
             bezetTextBox.Text = _vrijeStudie.GereserveerdePlaatsen.ToString();
         }
 
         private void inschrijvenButton_Click(object sender, EventArgs e)
         {
             // nagaan hoeveel leerlingen willen inschrijven
-            int aantal = Convert.ToInt32(aantalInschrijvenTextBox.Text);
+            int aantal = Convert.ToInt32(AantalInschrijven.Value);
 
             // object _vrijeStudie controleert of er nog plaats is voor deze leerlingen
             if (_vrijeStudie.IsErNogPlaats(aantal) == true)
@@ -49,7 +50,7 @@ namespace LeerlingenSecretariaat
             }
 
             // tekstvak met aantal in te schrijven leerlingen leegmaken
-            aantalInschrijvenTextBox.Text = "";
+            AantalInschrijven.Value = 0;
         }
     }
 }

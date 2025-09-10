@@ -7,3 +7,14 @@ D:\2017_2018\Drielagenmodel\_hoofdstuk_4\_voorbeelden\_beginsituatie\Showroom\Sh
 D:\2017_2018\Drielagenmodel\_hoofdstuk_4\_voorbeelden\_beginsituatie\Showroom\Showroom\bin\Debug\Showroom.pdb
 D:\2017_2018\Drielagenmodel\_hoofdstuk_4\_voorbeelden\_beginsituatie\Showroom\Showroom\obj\Debug\Showroom.exe
 D:\2017_2018\Drielagenmodel\_hoofdstuk_4\_voorbeelden\_beginsituatie\Showroom\Showroom\obj\Debug\Showroom.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\bin\Debug\Showroom.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\bin\Debug\Showroom.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\bin\Debug\Showroom.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.PartnerTepeeForm.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_voorbeelden\Showroom\Showroom\obj\Debug\Showroom.pdb
