@@ -11,3 +11,14 @@ C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProj
 C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe.config
 C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe
 C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\LeerlingenProjecten3Lagen\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\bin\Debug\OpDeWeegschaal.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.BMIForm.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.pdb

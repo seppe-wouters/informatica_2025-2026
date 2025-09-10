@@ -19,7 +19,7 @@ namespace OpDeWeegschaal
 
         public double BerekenBMI()
         {
-            return Gewicht / Math.Pow(Lengte, 2);
+            return Math.Round(Gewicht / Math.Pow(Lengte, 2),2);
         }
 
         public string GeefStatus()

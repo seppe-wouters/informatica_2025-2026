@@ -20,7 +20,7 @@ namespace OpDeWeegschaal
 
         private void btnBereken_Click(object sender, EventArgs e)
         {
-            _BmiBereken = new WeightWatcher(Convert.ToInt32(txtKg.Text), Convert.ToInt32(txtLengte.Text));
+            _BmiBereken = new WeightWatcher(Convert.ToInt32(txtKg.Text), Convert.ToDouble(txtLengte.Text));
 
             txtBMI.Text = _BmiBereken.BerekenBMI().ToString();
             txtStatus.Text = _BmiBereken.GeefStatus();
