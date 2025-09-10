@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\opdeweegschaal\\weightwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\weightwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\opdeweegschaal\\opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\opdeweegschaal\\opdeweegschaal\\weightwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|solutionrelative:opdeweegschaal\\weightwatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{505995CD-84E8-49E6-B8EF-5224A948ECF3}|OpDeWeegschaal\\OpDeWeegschaal.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\opdeweegschaal\\opdeweegschaal\\bmiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeightWatcher.cs",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\WeightWatcher.cs",
               "RelativeDocumentMoniker": "OpDeWeegschaal\\WeightWatcher.cs",
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\WeightWatcher.cs",
               "RelativeToolTip": "OpDeWeegschaal\\WeightWatcher.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T09:18:45.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BMIForm.cs",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\BMIForm.cs",
               "RelativeDocumentMoniker": "OpDeWeegschaal\\BMIForm.cs",
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_3\\_oefeningen\\OpDeWeegschaal\\OpDeWeegschaal\\BMIForm.cs",
               "RelativeToolTip": "OpDeWeegschaal\\BMIForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T09:18:48.34Z",
               "EditorCaption": ""

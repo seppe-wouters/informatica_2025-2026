@@ -22,7 +22,7 @@ namespace OpDeWeegschaal
         {
             _BmiBereken = new WeightWatcher(Convert.ToInt32(txtKg.Text), Convert.ToDouble(txtLengte.Text));
 
-            txtBMI.Text = _BmiBereken.BerekenBMI().ToString();
+            txtBMI.Text = _BmiBereken.BerekenBMI().ToString("0.00");
             txtStatus.Text = _BmiBereken.GeefStatus();
 
             txtLengte.Text = "";
