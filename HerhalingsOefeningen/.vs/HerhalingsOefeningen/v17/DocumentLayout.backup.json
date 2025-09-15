@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|solutionrelative:schoolbib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\documenten\\informatica\\herhalingsoefeningen\\schoolbib\\bib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|solutionrelative:schoolbib\\bib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\HerhalingsOefeningen\\schoolbib\\boek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|solutionrelative:schoolbib\\boek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\documenten\\informatica\\herhalingsoefeningen\\schoolbib\\boek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|solutionrelative:schoolbib\\boek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\HerhalingsOefeningen\\schoolbib\\bib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C65D1-007B-4EAE-95C6-8C057BAB84CF}|Schoolbib\\Schoolbib.csproj|solutionrelative:schoolbib\\bib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Boek.cs",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\HerhalingsOefeningen\\Schoolbib\\Boek.cs",
               "RelativeDocumentMoniker": "Schoolbib\\Boek.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bib.cs",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\HerhalingsOefeningen\\Schoolbib\\Bib.cs",
               "RelativeDocumentMoniker": "Schoolbib\\Bib.cs",
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\HerhalingsOefeningen\\Schoolbib\\Bib.cs",
               "RelativeToolTip": "Schoolbib\\Bib.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAvwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T09:51:37.42Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Schoolbib\\Program.cs",
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\HerhalingsOefeningen\\Schoolbib\\Program.cs",
               "RelativeToolTip": "Schoolbib\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T09:45:49.128Z",
               "EditorCaption": ""
