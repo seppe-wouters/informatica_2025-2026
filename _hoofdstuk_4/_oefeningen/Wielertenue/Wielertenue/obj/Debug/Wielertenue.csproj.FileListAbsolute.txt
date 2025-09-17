@@ -1,0 +1,11 @@
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\bin\Debug\Wielertenue.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.BestellingForm.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Wielertenue\Wielertenue\obj\Debug\Wielertenue.exe.config
