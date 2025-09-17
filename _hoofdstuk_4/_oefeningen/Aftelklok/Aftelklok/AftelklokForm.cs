@@ -43,5 +43,15 @@ namespace Aftelklok
             // tekstvak vernieuwen
             displayTextBox.Text = _klokje.ResterendeTijd();
         }
+
+        private void btnStop_Click(object sender, EventArgs e)
+        {
+            aftelklokTimer.Enabled = false;
+        }
+
+        private void btnStart_Click(object sender, EventArgs e)
+        {
+            aftelklokTimer.Enabled = true;
+        }
     }
 }

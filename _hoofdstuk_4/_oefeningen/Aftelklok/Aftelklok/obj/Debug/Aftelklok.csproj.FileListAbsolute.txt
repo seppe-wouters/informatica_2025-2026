@@ -23,3 +23,14 @@ D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_oefeningen\_oplossing\Aftelklok\Aftelk
 D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_oefeningen\_oplossing\Aftelklok\Aftelklok\obj\Debug\Aftelklok.csproj.GenerateResource.Cache
 D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_oefeningen\_oplossing\Aftelklok\Aftelklok\obj\Debug\Aftelklok.exe
 D:\2017_2018\Drielagenmodel\_hoofdstuk_2\_oefeningen\_oplossing\Aftelklok\Aftelklok\obj\Debug\Aftelklok.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\bin\Debug\Aftelklok.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\bin\Debug\Aftelklok.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\bin\Debug\Aftelklok.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.AftelklokForm.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_4\_oefeningen\Aftelklok\Aftelklok\obj\Debug\Aftelklok.pdb
