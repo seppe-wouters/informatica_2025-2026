@@ -16,7 +16,7 @@ namespace Presentatie
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DobbelsteenForm());
+            Application.Run(new StartForm());
         }
     }
 }

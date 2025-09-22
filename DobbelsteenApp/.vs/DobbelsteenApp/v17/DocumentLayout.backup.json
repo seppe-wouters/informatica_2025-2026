@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\DobbelsteenApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0424903-13F8-4CA6-A156-A6D686AACF83}|Presentatie\\Presentatie.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\documenten\\informatica\\dobbelsteenapp\\presentatie\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0424903-13F8-4CA6-A156-A6D686AACF83}|Presentatie\\Presentatie.csproj|solutionrelative:presentatie\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0424903-13F8-4CA6-A156-A6D686AACF83}|Presentatie\\Presentatie.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\documenten\\informatica\\dobbelsteenapp\\presentatie\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0424903-13F8-4CA6-A156-A6D686AACF83}|Presentatie\\Presentatie.csproj|solutionrelative:presentatie\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31C6C91C-568F-4D29-BEB1-AC50363FFA35}|Business\\Business.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\documenten\\informatica\\dobbelsteenapp\\business\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31C6C91C-568F-4D29-BEB1-AC50363FFA35}|Business\\Business.csproj|solutionrelative:business\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0424903-13F8-4CA6-A156-A6D686AACF83}|Presentatie\\Presentatie.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\documenten\\informatica\\dobbelsteenapp\\presentatie\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0424903-13F8-4CA6-A156-A6D686AACF83}|Presentatie\\Presentatie.csproj|solutionrelative:presentatie\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0424903-13F8-4CA6-A156-A6D686AACF83}|Presentatie\\Presentatie.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\DobbelsteenApp\\presentatie\\dobbelsteen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,25 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dobbelsteen.cs",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\DobbelsteenApp\\Business\\Dobbelsteen.cs",
               "RelativeDocumentMoniker": "Business\\Dobbelsteen.cs",
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\DobbelsteenApp\\Business\\Dobbelsteen.cs",
               "RelativeToolTip": "Business\\Dobbelsteen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:36:39.013Z"
+              "WhenOpened": "2025-09-17T10:36:39.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dobbelsteen.cs",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\DobbelsteenApp\\Presentatie\\Dobbelsteen.cs",
               "RelativeDocumentMoniker": "Presentatie\\Dobbelsteen.cs",
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\DobbelsteenApp\\Presentatie\\Dobbelsteen.cs",
               "RelativeToolTip": "Presentatie\\Dobbelsteen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T10:46:49.825Z",
               "EditorCaption": ""
@@ -82,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Dobbelsteen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Documenten\\informatica\\DobbelsteenApp\\Presentatie\\Dobbelsteen.cs",
               "RelativeDocumentMoniker": "Presentatie\\Dobbelsteen.cs",

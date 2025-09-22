@@ -52,15 +52,15 @@
             this.txtUitkomst.Name = "txtUitkomst";
             this.txtUitkomst.ReadOnly = true;
             this.txtUitkomst.Size = new System.Drawing.Size(100, 29);
-            this.txtUitkomst.TabIndex = 1;
+            this.txtUitkomst.TabIndex = 2;
             this.txtUitkomst.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // btnWerp
             // 
-            this.btnWerp.Location = new System.Drawing.Point(148, 322);
+            this.btnWerp.Location = new System.Drawing.Point(102, 294);
             this.btnWerp.Name = "btnWerp";
-            this.btnWerp.Size = new System.Drawing.Size(75, 23);
-            this.btnWerp.TabIndex = 2;
+            this.btnWerp.Size = new System.Drawing.Size(139, 58);
+            this.btnWerp.TabIndex = 1;
             this.btnWerp.Text = "Werp";
             this.btnWerp.UseVisualStyleBackColor = true;
             this.btnWerp.Click += new System.EventHandler(this.btnWerp_Click);

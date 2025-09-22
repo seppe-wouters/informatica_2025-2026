@@ -14,11 +14,11 @@ namespace Presentatie
     public partial class DobbelsteenForm : Form
     {
         Dobbelsteen _dobbelsteen;
-        public DobbelsteenForm()
+        public DobbelsteenForm(int aantalZijde)
         {
             InitializeComponent();
-
-            _dobbelsteen = new Dobbelsteen(6);
+            _dobbelsteen = new Dobbelsteen(aantalZijde);
+            txtUitkomst.Text = _dobbelsteen.AantalZijden.ToString();
         }
 
         private void btnWerp_Click(object sender, EventArgs e)
