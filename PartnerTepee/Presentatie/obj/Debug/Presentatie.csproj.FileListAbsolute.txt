@@ -1,0 +1,15 @@
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\bin\Debug\Presentatie.exe.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\bin\Debug\Presentatie.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\bin\Debug\Presentatie.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\bin\Debug\Business.dll
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\bin\Debug\Business.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\bin\Debug\Business.dll.config
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.Showroom.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.Properties.Resources.resources
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.csproj.GenerateResource.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presenta.54B32969.Up2Date
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.exe
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Presentatie\obj\Debug\Presentatie.exe.config
