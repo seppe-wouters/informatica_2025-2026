@@ -37,7 +37,7 @@ namespace Business
 
         public string Omschijving()
         {
-            return $"{_aantalDagen.ToString()} dag/dagen naar {_land} voor {_kostprijs.ToString("C")}";
+            return $"{AantalDagen.ToString()} dag/dagen naar {Land} voor {Kostprijs.ToString("C")}";
         }
     }
 }

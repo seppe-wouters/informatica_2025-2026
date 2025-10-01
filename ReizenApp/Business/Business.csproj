@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="JaarboekReizen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reis.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
