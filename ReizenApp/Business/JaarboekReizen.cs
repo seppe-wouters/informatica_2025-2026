@@ -58,22 +58,9 @@ namespace Business
             return totaal;
         }
 
-        public void VerwijderOpNummer(int nr)
-        {
-            if (nr >= 0 && nr < _reizen.Count)
-            {
-                _reizen.RemoveAt(nr);
-            }
-        } 
-
-        public void VerwijderOpReis(Reis reis)
-        {
-            _reizen.Remove(reis);
-        }
-
         public void WisReizenLand(string land)
         {
-            for (int i = _reizen.Count -1; i >= 0; i--)
+            for (int i = _reizen.Count -1; i > -1; i--)
             {
                 if (_reizen[i].Land == land)
                 {
