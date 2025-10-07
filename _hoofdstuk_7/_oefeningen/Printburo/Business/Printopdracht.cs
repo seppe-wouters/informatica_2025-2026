@@ -26,5 +26,10 @@ namespace Business
         {
             get { return _exemplaren; }
         }
+
+        public override string ToString()
+        {
+            return $"# paginas: {Paginas}- # Exemplaren: {Exemplaren}";
+        }
     }
 }

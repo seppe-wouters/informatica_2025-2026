@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Business;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,32 @@ namespace Presentation
 {
     public partial class CopierForm : Form
     {
+        private Copier _copier;
         public CopierForm()
         {
             InitializeComponent();
+            _copier = new Copier();
+        }
+
+        private void inWachtrijButton_Click(object sender, EventArgs e)
+        {
+            _copier.VoegPrintopdrachtToe((int)paginasNumericUpDown.Value, (int)kopiesNumericUpDown.Value);
+            paginasNumericUpDown.Value = 1;
+            kopiesNumericUpDown.Value = 1;
+            UpdateForm();
+        }
+
+        private void printButton_Click(object sender, EventArgs e)
+        {
+            _copier.Print();
+            UpdateForm();
+        }
+
+        public void UpdateForm()
+        {
+            wachtrijListBox.DataSource = null;
+            wachtrijListBox.DataSource = _copier.Wachtrij;
+            tellerTextBox.Text = _copier.Teller.ToString();
         }
     }
 }

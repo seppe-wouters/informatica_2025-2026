@@ -32,15 +32,19 @@ namespace Business
         // ----------------------------------------------------------------
         public void VoegPrintopdrachtToe(int aantalPaginas, int aantalExemplaren)
         {
+            _wachtrij.Add(new Printopdracht(aantalPaginas, aantalExemplaren));
         }
-
 
         // nog te programmeren ...
         // deze methode laat de eerste printopdracht in de wachtrij verwerken
         // ------------------------------------------------------------------
         public void Print()
         {
+            _teller += (_wachtrij[0].Exemplaren * _wachtrij[0].Paginas);
+            _wachtrij.RemoveAt(0);
         }
+
+       
 
     }
 }

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\cocktailbar\\presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|solutionrelative:presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|solutionrelative:presentation\\cocktailinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\cocktailbar\\presentation\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\presentation\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EBD3674-66E2-40F5-8E03-DAA0BD569642}|Presentation\\Presentation.csproj|solutionrelative:presentation\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +47,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CocktailInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\CocktailInfoForm.cs",
+              "RelativeDocumentMoniker": "Presentation\\CocktailInfoForm.cs",
+              "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\CocktailInfoForm.cs",
+              "RelativeToolTip": "Presentation\\CocktailInfoForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:01:53.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,8 +83,7 @@
               "RelativeToolTip": "Presentation\\StartForm.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T12:05:24.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T12:05:24.726Z"
             },
             {
               "$type": "Document",
@@ -82,8 +94,7 @@
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\StartForm.cs [Design]",
               "RelativeToolTip": "Presentation\\StartForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T12:16:25.596Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-07T12:16:25.596Z"
             },
             {
               "$type": "Document",
@@ -108,19 +119,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T12:02:09.818Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CocktailInfoForm.cs",
-              "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\CocktailInfoForm.cs",
-              "RelativeDocumentMoniker": "Presentation\\CocktailInfoForm.cs",
-              "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_voorbeelden\\CocktailBar\\Presentation\\CocktailInfoForm.cs",
-              "RelativeToolTip": "Presentation\\CocktailInfoForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T12:01:53.362Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

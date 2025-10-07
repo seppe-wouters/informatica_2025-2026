@@ -113,6 +113,7 @@
             this.inWachtrijButton.TabIndex = 5;
             this.inWachtrijButton.Text = "Zet in wachtrij";
             this.inWachtrijButton.UseVisualStyleBackColor = true;
+            this.inWachtrijButton.Click += new System.EventHandler(this.inWachtrijButton_Click);
             // 
             // panel1
             // 
@@ -153,11 +154,14 @@
             this.printButton.TabIndex = 10;
             this.printButton.Text = "Print";
             this.printButton.UseVisualStyleBackColor = true;
+            this.printButton.Click += new System.EventHandler(this.printButton_Click);
             // 
             // tellerTextBox
             // 
+            this.tellerTextBox.BackColor = System.Drawing.SystemColors.Window;
             this.tellerTextBox.Location = new System.Drawing.Point(125, 292);
             this.tellerTextBox.Name = "tellerTextBox";
+            this.tellerTextBox.ReadOnly = true;
             this.tellerTextBox.Size = new System.Drawing.Size(84, 20);
             this.tellerTextBox.TabIndex = 11;
             // 

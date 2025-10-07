@@ -3,3 +3,9 @@ G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Bu
 G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
 G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.dll
 G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_7\_oefeningen\Printburo\Business\bin\Debug\Business.dll
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_7\_oefeningen\Printburo\Business\bin\Debug\Business.pdb
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.dll
+C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Bureaublad\informatica_2025-2026\_hoofdstuk_7\_oefeningen\Printburo\Business\obj\Debug\Business.pdb
