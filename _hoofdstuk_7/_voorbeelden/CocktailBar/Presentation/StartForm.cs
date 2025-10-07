@@ -34,8 +34,21 @@ namespace Presentation
             formulier.Show();
         }
 
-        private void cubaLibreButton_Click(object sender, EventArgs e)
+        private void cubaLibreButton_Click(object sender, EventArgs e) //rum limoensap, coca cola
         {
+            Cocktail cocktail = new Cocktail("Cuba Libre", (decimal)10.01);
+
+            Ingredient i1 = new Ingredient("Rum", 50, 0.40);
+            cocktail.VoegIngredientToe(i1);
+
+            Ingredient i2 = new Ingredient("Limoensap", 22, 0);
+            cocktail.VoegIngredientToe(i2);
+
+            Ingredient i3 = new Ingredient("Coca Cola", 26, 0);
+            cocktail.VoegIngredientToe(i3);
+
+            CocktailInfoForm formulier = new CocktailInfoForm(cocktail);
+            formulier.Show();
         }
     }
 }

@@ -51,5 +51,10 @@ namespace Business
             // Het kan als volgt korter (in één instructie)
             // return (_alcoholpercentage > 0);
         }
+
+        public override string ToString()
+        {
+            return $"{Hoeveelheid} ml - {Naam}";
+        }
     }
 }
