@@ -30,8 +30,20 @@ namespace Presentation
 
         private void printButton_Click(object sender, EventArgs e)
         {
-            _copier.Print();
-            UpdateForm();
+            try
+            {
+                if (wachtrijListBox.Items.Count != 0)
+                {
+                    _copier.Print();
+                    UpdateForm();
+                }
+                else throw new ArgumentNullException("geen printopdrachten");
+            }
+            catch (ArgumentNullException)
+            {
+                MessageBox.Show("Geen printopdrachten aangemaakt");
+            }
+            
         }
 
         public void UpdateForm()

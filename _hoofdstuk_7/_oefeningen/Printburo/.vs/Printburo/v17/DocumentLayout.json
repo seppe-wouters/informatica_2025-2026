@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\printburo\\presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|solutionrelative:business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\printburo\\business\\printopdracht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\business\\printopdracht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|solutionrelative:business\\printopdracht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|c:\\users\\seppe.wouters\\onedrive - sintmaartencampus.be\\bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\printburo\\business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|solutionrelative:business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,46 +38,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Printopdracht.cs",
-              "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Printopdracht.cs",
-              "RelativeDocumentMoniker": "Business\\Printopdracht.cs",
-              "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Printopdracht.cs",
-              "RelativeToolTip": "Business\\Printopdracht.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T12:32:55.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Copier.cs",
-              "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Copier.cs",
-              "RelativeDocumentMoniker": "Business\\Copier.cs",
-              "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Copier.cs",
-              "RelativeToolTip": "Business\\Copier.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T12:32:51.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CopierForm.cs",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\CopierForm.cs",
               "RelativeDocumentMoniker": "Presentation\\CopierForm.cs",
               "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\CopierForm.cs",
               "RelativeToolTip": "Presentation\\CopierForm.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T12:32:36.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printopdracht.cs",
+              "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Printopdracht.cs",
+              "RelativeDocumentMoniker": "Business\\Printopdracht.cs",
+              "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Printopdracht.cs",
+              "RelativeToolTip": "Business\\Printopdracht.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:32:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Copier.cs",
+              "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Copier.cs",
+              "RelativeDocumentMoniker": "Business\\Copier.cs",
+              "ToolTip": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Business\\Copier.cs",
+              "RelativeToolTip": "Business\\Copier.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:32:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CopierForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\seppe.wouters\\OneDrive - sintmaartencampus.be\\Bureaublad\\informatica_2025-2026\\_hoofdstuk_7\\_oefeningen\\Printburo\\Presentation\\CopierForm.cs",
               "RelativeDocumentMoniker": "Presentation\\CopierForm.cs",
