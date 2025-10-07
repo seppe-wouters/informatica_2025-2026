@@ -132,12 +132,13 @@
             this.pittigerButton.TabIndex = 6;
             this.pittigerButton.Text = "Maak cocktail pittiger";
             this.pittigerButton.UseVisualStyleBackColor = true;
+            this.pittigerButton.Click += new System.EventHandler(this.pittigerButton_Click);
             // 
             // CocktailInfoForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(385, 128);
+            this.ClientSize = new System.Drawing.Size(380, 172);
             this.Controls.Add(this.pittigerButton);
             this.Controls.Add(this.alcoholpercentageTextBox);
             this.Controls.Add(this.inhoudTextBox);
