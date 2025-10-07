@@ -38,6 +38,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.printButton = new System.Windows.Forms.Button();
             this.tellerTextBox = new System.Windows.Forms.TextBox();
+            this.btnSelected = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.paginasNumericUpDown)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.kopiesNumericUpDown)).BeginInit();
             this.panel1.SuspendLayout();
@@ -150,7 +151,7 @@
             // 
             this.printButton.Location = new System.Drawing.Point(11, 252);
             this.printButton.Name = "printButton";
-            this.printButton.Size = new System.Drawing.Size(197, 23);
+            this.printButton.Size = new System.Drawing.Size(91, 34);
             this.printButton.TabIndex = 10;
             this.printButton.Text = "Print";
             this.printButton.UseVisualStyleBackColor = true;
@@ -165,12 +166,23 @@
             this.tellerTextBox.Size = new System.Drawing.Size(84, 20);
             this.tellerTextBox.TabIndex = 11;
             // 
+            // btnSelected
+            // 
+            this.btnSelected.Location = new System.Drawing.Point(108, 252);
+            this.btnSelected.Name = "btnSelected";
+            this.btnSelected.Size = new System.Drawing.Size(101, 34);
+            this.btnSelected.TabIndex = 12;
+            this.btnSelected.Text = "Print geselecteerde";
+            this.btnSelected.UseVisualStyleBackColor = true;
+            this.btnSelected.Click += new System.EventHandler(this.btnSelected_Click);
+            // 
             // CopierForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(222, 330);
+            this.Controls.Add(this.btnSelected);
             this.Controls.Add(this.tellerTextBox);
             this.Controls.Add(this.printButton);
             this.Controls.Add(this.label3);
@@ -199,5 +211,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button printButton;
         private System.Windows.Forms.TextBox tellerTextBox;
+        private System.Windows.Forms.Button btnSelected;
     }
 }

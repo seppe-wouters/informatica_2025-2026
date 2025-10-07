@@ -52,5 +52,22 @@ namespace Presentation
             wachtrijListBox.DataSource = _copier.Wachtrij;
             tellerTextBox.Text = _copier.Teller.ToString();
         }
+
+        private void btnSelected_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (wachtrijListBox.Items.Count != 0)
+                {
+                    _copier.Print(wachtrijListBox.SelectedIndex);
+                    UpdateForm();
+                }
+                else throw new ArgumentNullException("geen printopdrachten");
+            }
+            catch (ArgumentNullException)
+            {
+                MessageBox.Show("Geen printopdrachten aangemaakt");
+            }
+        }
     }
 }

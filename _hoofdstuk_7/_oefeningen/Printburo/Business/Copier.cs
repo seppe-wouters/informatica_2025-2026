@@ -44,7 +44,12 @@ namespace Business
             _wachtrij.RemoveAt(0);
         }
 
-       
+        public void Print(int index)
+        {
+            _teller += (_wachtrij[index].Exemplaren * _wachtrij[index].Paginas);
+            _wachtrij.RemoveAt(index);
+        }
+
 
     }
 }
