@@ -1,22 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace Presentatie
-{
-    internal static class Program
-    {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Dobbelsteen());
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f7539f49eeb944175dbc8041f95a108a8a23486aca01ca609c49495fe5292ea
+size 549

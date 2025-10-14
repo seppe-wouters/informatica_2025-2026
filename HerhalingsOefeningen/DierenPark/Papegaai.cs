@@ -1,23 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DierenPark
-{
-    internal class Papegaai : Dier, IVoeder
-    {
-        public Papegaai(string naamin, int leeftijdin) : base(naamin, leeftijdin) { }
-
-        public override string MaakGeluid()
-        {
-            return "Ik ben een papegaai";
-        }
-
-        public void Voeder()
-        {
-            Console.WriteLine($"Het {Naam} is gevoederd");
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc32a18d023486fff56b8ae87af1fd534ab3df720807a3ef6f0ab0b8d98a0cd8
+size 526

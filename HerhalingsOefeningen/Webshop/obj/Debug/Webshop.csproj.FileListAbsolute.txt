@@ -1,8 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\bin\Debug\Webshop.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\bin\Debug\Webshop.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\bin\Debug\Webshop.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Webshop\obj\Debug\Webshop.exe.config
+version https://git-lfs.github.com/spec/v1
+oid sha256:59cd123de8c64d2f7eaff4f57ff696aeed1e184f9a6745392e9f24a552c4c598
+size 1108

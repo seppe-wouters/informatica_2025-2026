@@ -1,22 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace Presentatie
-{
-    internal static class Program
-    {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Showroom());
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c349778f7df3b142d63f3d9dd37aede9e752fa60d35aadefaa17bbdbd4a66b4
+size 546

@@ -1,11 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\bin\Debug\Toets250915.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\bin\Debug\Toets250915.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\bin\Debug\Toets250915.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.Form1.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.Properties.Resources.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.csproj.GenerateResource.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\Toets250915\Toets250915\obj\Debug\Toets250915.exe.config
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b208de060505c7284f688bbc9e2018f91555781c83152d86145214df0cff3d7
+size 1552

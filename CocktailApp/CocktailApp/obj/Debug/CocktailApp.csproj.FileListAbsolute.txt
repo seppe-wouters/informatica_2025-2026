@@ -1,16 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\bin\Debug\CocktailApp.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\bin\Debug\CocktailApp.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\bin\Debug\CocktailApp.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\bin\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\bin\Debug\Business.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\bin\Debug\Business.dll.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.IngredientenForm.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.Properties.Resources.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.csproj.GenerateResource.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\Cocktail.105B5F9C.Up2Date
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\CocktailApp\obj\Debug\CocktailApp.StartForm.resources
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee34915a61cce50021af90a5c38366e13ef73ff824fc6a7301ea416edcbb817
+size 2232

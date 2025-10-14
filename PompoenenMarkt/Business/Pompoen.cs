@@ -1,32 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Business
-{
-    public class Pompoen
-    {
-        public string Soort { get; set; }
-        public double GewichtKg { get; set; }
-        public decimal PrijsPerKg { get; set; }
-
-        public Pompoen(string soort, double gewichtKg, decimal prijsPerKg)
-        {
-            Soort = soort;
-            GewichtKg = gewichtKg;
-            PrijsPerKg = prijsPerKg;
-        }
-
-        public decimal TotaalPrijs()
-        {
-            return (decimal)GewichtKg * PrijsPerKg;
-        }
-
-        public override string ToString()
-        {
-            return $"{Soort} - {PrijsPerKg} EUR - {GewichtKg} KG";
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29a88af51410b44ff9500de4f7927502f86a1f9eb9c1bd9eff5f18abd437762
+size 783

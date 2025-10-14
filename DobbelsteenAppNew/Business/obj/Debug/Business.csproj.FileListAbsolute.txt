@@ -1,9 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\bin\Debug\Business.dll.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\bin\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\bin\Debug\Business.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\obj\Debug\Business.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\obj\Debug\Business.Properties.Resources.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\obj\Debug\Business.csproj.GenerateResource.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\obj\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\DobbelsteenAppNew\Business\obj\Debug\Business.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ca40376232a2d5ad9fc01d03bf8229540f567eec004077a189c3c96c1556a37
+size 1275

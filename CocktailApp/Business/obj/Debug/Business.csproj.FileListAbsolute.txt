@@ -1,9 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\bin\Debug\Business.dll.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\bin\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\bin\Debug\Business.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\obj\Debug\Business.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\obj\Debug\Business.Properties.Resources.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\obj\Debug\Business.csproj.GenerateResource.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\obj\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\CocktailApp\Business\obj\Debug\Business.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f7f5381972f86b895bf7a73e120cf4d2663e4ee7aac9a87195e27721c4d4fd7
+size 1221

@@ -1,8 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\bin\Debug\GamePersonage.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\bin\Debug\GamePersonage.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\bin\Debug\GamePersonage.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\obj\Debug\GamePersonage.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\obj\Debug\GamePersonage.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\obj\Debug\GamePersonage.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\obj\Debug\GamePersonage.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\GamePersonage\obj\Debug\GamePersonage.exe.config
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03ce65a4dea406fa1651385ca48cd660f82a8c0b45f1b28974057f08b148794
+size 1204

@@ -1,25 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Webshop
-{
-    internal class Product 
-    {
-        public string Naam { get; set; }
-        public double Prijs { get; set; }
-        public string Beschrijving { get; set; }
-
-        public Product( string naamin, double prijsin, string beschrijvingin)
-        {
-            Naam = naamin;
-            Prijs = prijsin;
-            Beschrijving = beschrijvingin;
-        }
-
-
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a0f8c989c43127ab6f495d9da53c6caa37742c81a17e27ee627d3c196a68c7b
+size 577

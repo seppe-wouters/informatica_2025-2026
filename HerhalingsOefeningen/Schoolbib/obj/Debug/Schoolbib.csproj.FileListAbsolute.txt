@@ -1,8 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\bin\Debug\Schoolbib.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\bin\Debug\Schoolbib.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\bin\Debug\Schoolbib.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\HerhalingsOefeningen\Schoolbib\obj\Debug\Schoolbib.exe.config
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b62466680a43ad777c247ff760fa9786cdcf90c099d808fffc4930b8a385ba1
+size 1140

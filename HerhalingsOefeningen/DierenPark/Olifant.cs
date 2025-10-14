@@ -1,23 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DierenPark
-{
-    internal class Olifant : Dier, IVoeder
-    {
-        public Olifant(string naamin, int leeftijdin) : base(naamin, leeftijdin) { }
-
-        public override string MaakGeluid()
-        {
-            return "Ik ben een olifant";
-        }
-
-        public void Voeder()
-        {
-            Console.WriteLine($"Het {Naam} is gevoederd");
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ab38e47f9e54df09ed117361a582437acadbcf8c209d0627e3f4ba7adfcf5c
+size 523

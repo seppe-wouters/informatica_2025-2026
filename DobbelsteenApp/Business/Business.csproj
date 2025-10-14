@@ -1,9 +1,3 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
-</Project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:e151f959964eb450a5b86b72765e3f9c505645fa9516eae485743d2b43911c8e
+size 218

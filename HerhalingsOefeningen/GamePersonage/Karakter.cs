@@ -1,27 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GamePersonage
-{
-    internal abstract class Karakter
-    {
-        public string Naam { get; set; }
-        public int Level { get; set; }
-        public int HP { get; set; } = 100;
-        public int X { get; set; } = 0;
-        public int Y { get; set; } = 0;
-
-        public Karakter(string naamin, int levelin)
-        {
-            Naam = naamin;
-            Level = levelin;
-        }
-
-        public abstract void ValAan(Karakter Doelwit);
-        public abstract void SpecialMove(Karakter Doelwit);
-            
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a43d58f10bd16db8c69109e0c0040676ef79790c22ac3b34f0bd3e1826f5aa18
+size 685

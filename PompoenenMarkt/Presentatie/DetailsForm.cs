@@ -1,28 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using ReaLTaiizor;
-using ReaLTaiizor.Forms;
-using ReaLTaiizor.Enum.Material;
-using Business;
-
-namespace Presentatie
-{
-    public partial class DetailsForm : MaterialForm
-    {
-        public DetailsForm(Pompoen pompeon)
-        {
-            InitializeComponent();
-            txtSoort.Text = pompeon.Soort;
-            txtGewicht.Text = pompeon.GewichtKg.ToString();
-            txtPrijsPerKg.Text = pompeon.PrijsPerKg.ToString("C");
-            txtTotPrijs.Text = pompeon.TotaalPrijs().ToString("C");
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c707f9c56c4e766d13b0db15ce0897f641f648d3a5350624605b939226426e9
+size 766

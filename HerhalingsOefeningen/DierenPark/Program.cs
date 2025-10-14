@@ -1,34 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DierenPark
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            List<Dier> Dieren = new List<Dier>();
-
-            Olifant olifant = new Olifant("jeff", 8);
-            Leeuw leeuw = new Leeuw("bob", 6);
-            Papegaai papegaai = new Papegaai("kuba", 3);
-
-            Dieren.Add(olifant);
-            Dieren.Add(leeuw);
-            Dieren.Add(papegaai);
-
-            foreach (var dier in Dieren)
-            {
-                dier.Tooninfo();
-
-                if (dier is IVoeder ivoeder)
-                {
-                    ivoeder.Voeder();
-                }
-            }
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:96c50c7e83f7ea502763901af1aa89e2f6805b2864eb891d9934f7f2ab1b117f
+size 809

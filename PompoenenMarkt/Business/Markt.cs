@@ -1,35 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Business
-{
-    public class Markt
-    {
-        public List<Pompoen> Catalogus { get; set; }
-        public List<Pompoen> Gefiltererd { get; set; }
-        public Markt()
-        {
-            Catalogus = new List<Pompoen>();
-            Gefiltererd = new List<Pompoen>();
-        }
-
-        public void VoegToe(Pompoen pompoen)
-        {
-            Catalogus.Add(pompoen);
-        }
-
-        public List<Pompoen> FilterOpSoort(string Soort)
-        {
-            Gefiltererd = Catalogus.Where(p => p.Soort == Soort).ToList();
-            return Gefiltererd;
-        }
-        public void GeenFilter()
-        {
-            Gefiltererd = Catalogus;
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cfbb723a6a6b3ca915790ae1a6967277c6c891b4a770622e617b4fbc1e426ff
+size 886

@@ -1,25 +1,3 @@
-﻿using ReaLTaiizor.Forms;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using ReaLTaiizor;
-using ReaLTaiizor.Forms;
-
-namespace Presentatie
-{
-    internal static class Program
-    {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MarktForm());
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:345ee133b4e8f81b5bf847468d0dd0fe009f5e4e98263456e9715126793e5091
+size 619

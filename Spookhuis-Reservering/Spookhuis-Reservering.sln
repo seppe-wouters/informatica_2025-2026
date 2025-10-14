@@ -1,31 +1,3 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentatie", "Presentatie\Presentatie.csproj", "{7D428478-4122-4AA6-8E3E-0DC82E84A3D9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{D57C5B05-AD31-4675-A8ED-30B98D61DDA3}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D428478-4122-4AA6-8E3E-0DC82E84A3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D428478-4122-4AA6-8E3E-0DC82E84A3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D428478-4122-4AA6-8E3E-0DC82E84A3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D428478-4122-4AA6-8E3E-0DC82E84A3D9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D57C5B05-AD31-4675-A8ED-30B98D61DDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D57C5B05-AD31-4675-A8ED-30B98D61DDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D57C5B05-AD31-4675-A8ED-30B98D61DDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D57C5B05-AD31-4675-A8ED-30B98D61DDA3}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {272A508A-27EF-4C46-B56B-045CEFCA743A}
-	EndGlobalSection
-EndGlobal
+version https://git-lfs.github.com/spec/v1
+oid sha256:4503e03918354aa7866f47eb7e0cd52189f898729b16d03a7587831d0f4a749f
+size 1624

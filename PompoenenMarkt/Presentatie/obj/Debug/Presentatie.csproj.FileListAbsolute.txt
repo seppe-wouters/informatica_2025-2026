@@ -1,18 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.MarktForm.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.Properties.Resources.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.csproj.GenerateResource.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\Presentatie.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\Presentatie.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\Presentatie.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\ReaLTaiizor.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\Business.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\Business.dll.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\bin\Debug\ReaLTaiizor.xml
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presenta.54B32969.Up2Date
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.exe
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.exe.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PompoenenMarkt\Presentatie\obj\Debug\Presentatie.DetailsForm.resources
+version https://git-lfs.github.com/spec/v1
+oid sha256:573b53c7568257dce79fec9a19cfb6dab93e772310e3e3ababf4c4e5aa401f38
+size 2539

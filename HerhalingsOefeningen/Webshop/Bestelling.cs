@@ -1,24 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Webshop
-{
-    internal class Bestelling
-    {
-        public List<Bestelregel> BestelRegels { get; set; } = new List<Bestelregel>();
-
-        public void BerekenTotaal()
-        {
-            double totaalprijs = 0;
-            foreach (var bestelregel in BestelRegels)
-            {
-                totaalprijs += (bestelregel.BesteldProduct.Prijs * bestelregel.Aantal);
-            }
-
-            Console.WriteLine($"De totaalprijs is {totaalprijs}");
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eefdf427b811e6edde67ea7642a1d0a5bade0109cec25891c3c7fe15ac7f78c
+size 626

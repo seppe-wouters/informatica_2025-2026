@@ -1,9 +1,3 @@
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\bin\Debug\Business.dll.config
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\bin\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\bin\Debug\Business.pdb
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\obj\Debug\Business.csproj.AssemblyReference.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\obj\Debug\Business.Properties.Resources.resources
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\obj\Debug\Business.csproj.GenerateResource.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\obj\Debug\Business.dll
-C:\Users\seppe.wouters\OneDrive - sintmaartencampus.be\Documenten\informatica\PartnerTepee\Business\obj\Debug\Business.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4fda12610a55f0099628591f218bd2c4681ddba7abade6198ea5a514a9b3aba
+size 1230

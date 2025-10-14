@@ -1,27 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Business
-{
-    public class Reservering
-    {
-        public string Naam { get; private set; }
-        public DateTime Tijdslot { get; private set; }
-        public int AantalPersonen { get; private set; }
-
-        public Reservering(string naam, DateTime tijdslot, int aantalPersonen)
-        {
-            Naam = naam;
-            Tijdslot = tijdslot;
-            AantalPersonen = aantalPersonen;
-        }
-
-        public override string ToString()
-        {
-            return $"{Naam} - {Tijdslot.Day}/{Tijdslot.Month} - {AantalPersonen}";
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51bb35bf2b520d48e888c79ea15792a0c5968ead14bf5eec21b6e0320ae9a15
+size 720
