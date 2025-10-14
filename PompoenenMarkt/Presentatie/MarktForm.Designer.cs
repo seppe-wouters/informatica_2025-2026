@@ -164,7 +164,7 @@
             // 
             // MarktForm
             // 
-            this.ClientSize = new System.Drawing.Size(416, 328);
+            this.ClientSize = new System.Drawing.Size(417, 328);
             this.Controls.Add(this.btnGeenFilter);
             this.Controls.Add(this.lbCatalogus);
             this.Controls.Add(this.btnDetails);
